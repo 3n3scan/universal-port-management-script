@@ -1,5 +1,5 @@
 # Eno's Universal Port Management Script v1.0
-- This are made for educational purposes only. I am not responsible for any misuse of these.
+- This is made for educational purposes only. I am not responsible for any misuse of these.
 
 ## Info
 - So if you have any suggestions for improvement, bugs or feedback, just let us know.
